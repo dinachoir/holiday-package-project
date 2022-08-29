@@ -1,7 +1,6 @@
 # holiday-package-project
 Save readme to summarize Stage 1 through Stage 3
 
-Stage 1 & Stage 2
 Langkah-langkah yang kami lakukan pada stage 1 adalah menggali sebanyak mungkin insights dan memperbaikinya di stage 2 (preprocessing). Adapun hasilnya sebagai berikut:
 - Handle missing values sebesar 15.35% dengan imputasi median pada data numerik dan imputasi mode pada data kategorikal
 - Drop feature:
