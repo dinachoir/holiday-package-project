@@ -34,7 +34,5 @@ Stage 3
   - Decision Tree
   - Random Forest
   - XGBoost Classifier
-  - Support Vector Machine (SVM)
-  - Naive Bayes
 
 
