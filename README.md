@@ -34,4 +34,6 @@ Stage 3
   - Decision Tree = Algoritma decision tree cocok untuk dataset yang memiliki feature yang dominan di kategorikal, seperti dataset yang saat ini sedang digunakan.
   - Random Forest = Algoritma random forest mirip dengan decision tree, namun lebih baik mencegah overfitting.
   - XGBoost Classifier = Algoritma ini merupakan salah satu yang paling powerful dan cukup detail, karena iterasi yang dilakukan di setiap tree nya lebih mendalam.
+
+
 Selain itu, alasan pemilihan model di atas karena semua algoritma tersebut cocok untuk task supervised klasifikasi. Sehingga mendorong kami untuk menemukan hasil terbaik. 
